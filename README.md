@@ -183,18 +183,7 @@ interrupção para escrever diretamente na memória, como é
 feito na rotina esc_char_mem. Isto foi concluído e não foi
 mais utilizada a INT 10H para escrever na tela durante o
 decorrer do jogo ao invés disso utiliza a própria
-esc_char_mem para realizar a escrita
-</p>
-<p>
-  A principal dificuldade do projeto foi escrever diretamente
-na memória usando o registrador DI, o objetivo no início do
-trabalho foi criar a rotina esc_char com interrupções para
-escrever na tela e no fim do trabalho substituir essa
-interrupção para escrever diretamente na memória, como é
-feito na rotina esc_char_mem. Isto foi concluído e não foi
-mais utilizada a INT 10H para escrever na tela durante o
-decorrer do jogo ao invés disso utiliza a própria
-esc_char_mem para realizar a escrita
+esc_char_mem para realizar a escrita.
 </p>
 <p>
   Outra dificuldade encontrada foi a resolução de bugs que
