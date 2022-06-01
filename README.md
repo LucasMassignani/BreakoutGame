@@ -196,6 +196,5 @@ análise mais aprofundada.
 <p>
 [1] Tough Turtle, ““HOW TO GENERATE RANDOM NUMBER IN
 8086” Code Answer”, 26 de abril 2020, Disponível em:
-https://www.codegrepper.com/code-examples/whatever/HOW+TO+
-GENERATE+RANDOM+NUMBER+IN+8086.
+https://www.codegrepper.com/code-examples/whatever/HOW+TO+GENERATE+RANDOM+NUMBER+IN+8086.
 </p>
